@@ -6,9 +6,11 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Bye there!  Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <h1>
+          Welcome to the Docker React App.
+        </h1>
+        <p>Created by Bill Stephens</p>
+        <p>This app has beenn successfully deployed on AWS using Github Actions</p>
         <a
           className="App-link"
           href="https://reactjs.org"
